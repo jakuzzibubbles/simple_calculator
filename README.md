@@ -1,2 +1,2 @@
-# simple_calculator
+# simple_calculator with javascript
 ein einfacher taschenrechner_erster versuch
